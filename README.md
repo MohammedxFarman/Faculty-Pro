@@ -29,9 +29,6 @@ Faculty Pro is an Android application designed to help faculty manage student ac
 3. Sync Gradle
 4. Run the application
 
-## Screenshots
-
-(Add screenshots here)
 
 ## Author
 
